@@ -1,0 +1,11 @@
+{
+  "name": "Site-for-tourists-on-MEAN-stack",
+  "scripts": {
+    "postdeploy": "bin/www"
+  },
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [],
+  "stack": "heroku-18"
+}
